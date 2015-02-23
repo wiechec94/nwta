@@ -1,0 +1,14 @@
+9.03.2015: Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii - Trafiał, Zacharski
+9.03.2015: Systemy kontroli wersji i platformy: Git, SVN - Bałchanowski, Zając
+
+Narzędzia do modelowania (głównie UML) - Białas, Kudlicki
+Systemy CI: np. Jenkins
+Bug tracking: Bugzilla, Mantis - Słota, Szurgot
+Narzędzia do prototypowania - Kwiatkowski, Tomczak
+Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP... Fiszer
+Jakość kodu i testy: Sonar - Wrzalik
+Narzędzia do zarządzania projektami - Dąbrowski, Dutkiewicz
+Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter
+Frameworki do TDD i BDD: np. JUnit, JBehave, Jasmine, Cucumber
+Platformy hostingowe dla NodeJS + bazy (MongoDB) - Frelas, Ziomek
+Hosting dla Javy - Chruściel

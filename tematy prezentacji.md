@@ -16,7 +16,7 @@
 
 **18.05.2015**: *Narzędzia do zarządzania projektami* [Dąbrowski, Dutkiewicz]
 
-**18.05.2015**: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* []
+**18.05.2015**: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Zacharjin]
 
 **1.06.2015**: *Frameworki do TDD i BDD: np. JUnit, JBehave, Jasmine, Cucumber* [Koniusz, Mystek]
 

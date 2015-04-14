@@ -4,9 +4,9 @@
 
 ~~9.03.2015~~: *Systemy kontroli wersji i platformy: Git, SVN* [Bałchanowski, Zając]
 
-**23.03.2015**: *Narzędzia do modelowania (głównie UML)* [Białas, Kudlicki]
+~~23.03.2015~~: *Narzędzia do modelowania (głównie UML)* [Białas, Kudlicki]
 
-**23.03.2015**: *Systemy CI: np. Jenkins* [Piotr Kalarus, Mirzyński]
+~~23.03.2015~~: *Systemy CI: np. Jenkins* [Piotr Kalarus, Mirzyński]
 
 **20.04.2015**: *Bug tracking: np. Bugzilla, Mantis* [Słota, Szurgot]
 

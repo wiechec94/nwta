@@ -8,9 +8,9 @@
 
 ~~23.03.2015~~: *Systemy CI: np. Jenkins* [Piotr Kalarus, Mirzyński]
 
-**20.04.2015**: *Bug tracking: np. Bugzilla, Mantis* [Słota, Szurgot]
+~~20.04.2015~~: *Bug tracking: np. Bugzilla, Mantis* [Słota, Szurgot]
 
-**20.04.2015**: *Narzędzia do prototypowania* [Kwiatkowski, Tomczak]
+**~~20.04.2015~~ -> 4.05**: *Narzędzia do prototypowania* [Kwiatkowski, Tomczak]
 
 **4.05.2015**: *Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP...* [Fiszer]
 
@@ -24,4 +24,4 @@
 
 **1.06.2015**: *Platformy hostingowe dla NodeJS + bazy (MongoDB)* [Frelas, Ziomek]
 
-**15.06.2015**: *Hosting dla Javy* [Chruściel]
+**1.06.2015**: *Hosting dla Javy* [Chruściel]

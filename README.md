@@ -14,7 +14,7 @@
 
 **4.05.2015**: *Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP...* [Fiszer]
 
-**4.05.2015**: *Jakość kodu i testy: Sonar* [Wrzalik]
+**18.05.2015**: *Jakość kodu i testy: Sonar* [Wrzalik]
 
 **18.05.2015**: *Narzędzia do zarządzania projektami* [Dąbrowski, Dutkiewicz]
 

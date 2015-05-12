@@ -10,9 +10,9 @@
 
 ~~20.04.2015~~: *Bug tracking: np. Bugzilla, Mantis* [Słota, Szurgot]
 
-**~~20.04.2015~~ -> 4.05**: *Narzędzia do prototypowania* [Kwiatkowski, Tomczak]
+**~~20.04.2015~~ -> ~~4.05~~ -> 18.05**: *Narzędzia do prototypowania* [Kwiatkowski, Tomczak]
 
-**4.05.2015**: *Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP...* [Fiszer]
+**~~4.05.2015~~**: *Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP...* [Fiszer, Firek]
 
 **18.05.2015**: *Jakość kodu i testy: Sonar* [Wrzalik]
 

@@ -20,7 +20,7 @@
 
 ~~18.05.2015~~: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Zacharjin]
 
-**1.06.2015**: *Frameworki do TDD i BDD: np. JUnit, JBehave, Jasmine, Cucumber* [Koniusz, Mystek]
+~~1.06.2015~~ -> ~~9.06.2015~~: *Frameworki do TDD i BDD: np. JUnit, JBehave, Jasmine, Cucumber* [Koniusz, Mystek]
 
 ~~1.06.2015~~: *Platformy hostingowe dla NodeJS + bazy (MongoDB)* [Frelas, Ziomek]
 

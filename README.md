@@ -2,7 +2,7 @@
 
 7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [___, ___]
 
-21.03.2015: *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [___, ___]
+21.03.2015: *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Marek Wysłucha, Adrian Birecki]
 
 21.03.2015: *Narzędzia do modelowania (głównie UML)* [___, ___]
 

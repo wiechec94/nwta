@@ -14,6 +14,8 @@
 
 18.04.2015: *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).* [___, ___]
 
+18.04.2015: *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [___, ___]
+
 16.05.2015: *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [___, ___]
 
 16.05.2015: *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [___, ___]

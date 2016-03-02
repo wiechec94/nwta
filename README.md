@@ -1,6 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [___, ___]
+7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Magdalena Elżbieciak, Michal Pielka]
 
 21.03.2015: *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Marek Wysłucha, Adrian Birecki]
 

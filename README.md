@@ -1,27 +1,26 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-~~9.03.2015~~: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Trafiał, Zacharski]
+7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [___, ___]
 
-~~9.03.2015~~: *Systemy kontroli wersji i platformy: Git, SVN* [Bałchanowski, Zając]
+21.03.2015: *Systemy kontroli wersji i webowe platformy* [___, ___]
 
-~~23.03.2015~~: *Narzędzia do modelowania (głównie UML)* [Białas, Kudlicki]
+21.03.2015: *Narzędzia do modelowania (głównie UML)* [___, ___]
 
-~~23.03.2015~~: *Systemy CI: np. Jenkins* [Piotr Kalarus, Mirzyński]
+4.04.2015: *Systemy CI: np. Jenkins* [___, ___]
 
-~~20.04.2015~~: *Bug tracking: np. Bugzilla, Mantis* [Słota, Szurgot]
+4.04.2015: *Narzędzia do zarządzania projektami i bug trackingu* [___, ___]
 
-~~20.04.2015~~ -> ~~4.05~~ -> ~~18.05~~: *Narzędzia do prototypowania* [Kwiatkowski, Tomczak]
+18.04.2015: *Narzędzia do prototypowania* [___, ___]
 
-~~4.05.2015~~: *Automatyzacja tworzenia dokumentacji: np. dla Java, JavaScript, PHP...* [Fiszer, Firek]
+18.04.2015: *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).* [___, ___]
 
-~~18.05.2015~~: *Jakość kodu i testy: Sonar* [Wrzalik]
+16.05.2015: *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [___, ___]
 
-~~18.05.2015~~: *Narzędzia do zarządzania projektami* [Dąbrowski, Dutkiewicz]
+16.05.2015: *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [___, ___]
 
-~~18.05.2015~~: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Zacharjin]
+30.05.2015: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [___, ___]
 
-~~1.06.2015~~ -> ~~9.06.2015~~: *Frameworki do TDD i BDD: np. JUnit, JBehave, Jasmine, Cucumber* [Koniusz, Mystek]
+30.05.2015: *Usługi typu BaaS (Backend as a Service)* [___, ___]
 
-~~1.06.2015~~: *Platformy hostingowe dla NodeJS + bazy (MongoDB)* [Frelas, Ziomek]
+30.05.2015: *Hosting dla Javy* [___, ___]
 
-~~1.06.2015~~: *Hosting dla Javy* [Chruściel]

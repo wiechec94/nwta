@@ -2,7 +2,7 @@
 
 7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [___, ___]
 
-21.03.2015: *Systemy kontroli wersji i webowe platformy* [___, ___]
+21.03.2015: *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [___, ___]
 
 21.03.2015: *Narzędzia do modelowania (głównie UML)* [___, ___]
 
@@ -18,9 +18,10 @@
 
 16.05.2015: *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [___, ___]
 
+30.05.2015: *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [___, ___]
+
 30.05.2015: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [___, ___]
 
 30.05.2015: *Usługi typu BaaS (Backend as a Service)* [___, ___]
 
-30.05.2015: *Hosting dla Javy* [___, ___]
 

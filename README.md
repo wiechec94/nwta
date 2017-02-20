@@ -16,7 +16,7 @@
 
 *Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 
-*Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle*
+*Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [Sandra Kapturska, Przemysław Prostacki]
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 

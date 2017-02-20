@@ -2,7 +2,7 @@
 
 27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* 
 
-27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź Sklorz] // kolega źle wpisał, zgłaszaliśmy się na zajęciach do tego tematu
+27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź, Sklorz]
 
 *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
@@ -25,3 +25,7 @@
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 
 *Usługi typu BaaS (Backend as a Service)*
+
+*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
+
+*Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*

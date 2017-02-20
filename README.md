@@ -16,8 +16,7 @@
 
 *Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 
-*Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle*
-
+*Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* Sawczuk Jedralski
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*

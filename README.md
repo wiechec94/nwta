@@ -12,7 +12,7 @@
 
 *Narzędzia do prototypowania*
 
-*Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).*
+*Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).  Dawid Nosal
 
 *Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 

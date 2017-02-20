@@ -1,8 +1,8 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-*Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii*
+27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii*
 
-*Systemy kontroli wersji i bazujące na nich serwisy internetowe*
+27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
 *Narzędzia do modelowania (głównie UML)*
 
@@ -19,9 +19,11 @@
 *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle*
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
+
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* - Małgorzata Skrzypecka, Szymon Kolasa
+*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
+
 *Usługi typu BaaS (Backend as a Service)*
 
 

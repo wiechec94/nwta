@@ -20,7 +20,7 @@
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 
-*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
+*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [Banasz]
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 

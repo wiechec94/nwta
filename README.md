@@ -6,7 +6,7 @@
 
 *Narzędzia do modelowania (głównie UML)*
 
-*Systemy CI: np. Jenkins*
+*Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
 
 *Narzędzia do zarządzania projektami i bug trackingu*
 

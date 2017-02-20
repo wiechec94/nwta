@@ -1,29 +1,29 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-7.03.2015: *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Magdalena Elżbieciak, Michal Pielka]
+*Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii*
 
-21.03.2015: *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Marek Wysłucha, Adrian Birecki]
+*Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
-21.03.2015: *Narzędzia do modelowania (głównie UML)* [Marta Karwacka, Robert Waniewski]
+*Narzędzia do modelowania (głównie UML)*
 
-4.04.2015: *Systemy CI: np. Jenkins* [Maciej Żak, Kamil Kalisz]
+*Systemy CI: np. Jenkins*
 
-4.04.2015: *Narzędzia do zarządzania projektami i bug trackingu* [Robert Pasternak, ___]
+*Narzędzia do zarządzania projektami i bug trackingu*
 
-18.04.2015: *Narzędzia do prototypowania* [Bogdan Zborovsky, ___]
+*Narzędzia do prototypowania*
 
-18.04.2015: *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).* [Dariusz Roterman, Rafał Pudełko]
+*Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD).*
 
-18.04.2015: *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [Marta Pawlik, Robert Hebel]
+*Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 
-16.05.2015: *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [Mikołaj Piotrowski, Paweł Grzmil]
+*Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle*
 
-16.05.2015: *Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [Łukasz Nowak, Wiktor Wielgus]
+*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
-30.05.2015: *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [Kamil Wujec, Jakub Krzętowski]
+*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-30.05.2015: *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Kamil Duda, ___]
+*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter*
 
-30.05.2015: *Usługi typu BaaS (Backend as a Service)* [Łukasz Fikus, ___]
+*Usługi typu BaaS (Backend as a Service)*
 
 

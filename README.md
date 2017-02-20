@@ -1,6 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Mateusz Jędrzejek, Jakub Grzęda]
+27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii*
 
 27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
@@ -20,7 +20,7 @@
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 
-*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
+*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [Mateusz Jędrzejek, Jakub Grzęda]
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 

@@ -18,8 +18,7 @@
 
 *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle*
 
-*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
-
+*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* - Małgorzata Skrzypecka, Szymon Kolasa

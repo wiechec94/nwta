@@ -22,8 +22,7 @@
 
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter*
-
+*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* - Małgorzata Skrzypecka, Szymon Kolasa
 *Usługi typu BaaS (Backend as a Service)*
 
 

@@ -4,7 +4,7 @@
 
 27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
-*Narzędzia do modelowania (głównie UML)*
+*Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
 *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
 
@@ -25,5 +25,3 @@
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 
 *Usługi typu BaaS (Backend as a Service)*
-
-

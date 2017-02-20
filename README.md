@@ -1,7 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii*
-
+27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Gwóźdź Sklorz]
 27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
 *Narzędzia do modelowania (głównie UML)*

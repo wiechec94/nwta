@@ -28,6 +28,6 @@
 
 *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
-*Usługi typu BaaS (Backend as a Service)*
+*Usługi typu BaaS (Backend as a Service)*[(Michał Polewczak)]
 
 

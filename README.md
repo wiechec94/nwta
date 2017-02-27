@@ -26,7 +26,7 @@
 
 22.05.2017 - *Usługi typu BaaS (Backend as a Service)*[(Michał Polewczak)]
 
-*Narzędzia do prototypowania*
+*Narzędzia do prototypowania*[(Dominik Sula)]
 
 *Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 

@@ -6,15 +6,15 @@
 
 13.03.2017 - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
-13.03.2017 - *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
+13.03.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal]
 
-27.03.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal]
+27.03.2017 - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 
 27.03.2017 - *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [(Sandra Kapturska, Przemysław Prostacki), (Sawczuk, Jedralski)]
 
 10.04.2017 - *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 
-10.04.2017 - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
+10.04.2017 - *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
 
 24.04.2017 - *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [(Mateusz Jędrzejek, Jakub Grzęda), (Banasz)]
 

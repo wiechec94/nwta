@@ -1,6 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* 
+27.02.2017 - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Kupny, Szczepański]
 
 27.02.2017 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź, Sklorz]
 
@@ -18,7 +18,7 @@
 
 24.04.2017 - *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [(Mateusz Jędrzejek, Jakub Grzęda), (Banasz)]
 
-*Narzędzia do zarządzania projektami i bug trackingu*
+*Narzędzia do zarządzania projektami i bug trackingu* [Krzyżowski, Jasica]
 
 *Narzędzia do prototypowania*
 

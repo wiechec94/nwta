@@ -24,9 +24,9 @@
 
 8.05.2017 - *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.* [Dominik Juruś, Konrad Stachoń] 
 
-22.05.2017 - *Usługi typu BaaS (Backend as a Service)*[(Michał Polewczak)]
+22.05.2017 - *Usługi typu BaaS (Backend as a Service)*[Michał Polewczak]
 
-*Narzędzia do prototypowania*[(Dominik Sula)]
+22.05.2017 - *Narzędzia do prototypowania* [Dominik Sula]
 
 *Tworzenie wirtualnych środowisk programistycznych: Vagrant*
 

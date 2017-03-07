@@ -30,7 +30,7 @@
 
 22.05.2017 - *Narzędzia do prototypowania* [Dominik Sula]
 
-*Tworzenie wirtualnych środowisk programistycznych: Vagrant*
+*Tworzenie wirtualnych środowisk programistycznych: Vagrant[Kamil Kalisz]*
 
 
 

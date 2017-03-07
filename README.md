@@ -30,7 +30,9 @@
 
 22.05.2017 - *Narzędzia do prototypowania* [Dominik Sula]
 
-*Tworzenie wirtualnych środowisk programistycznych: Vagrant[Kamil Kalisz]*
+Scrum i jego zastosowanie w praktyce na podstawie Trello [Kamil Zemczak, Rafał Michalski]
+
+*Tworzenie wirtualnych środowisk programistycznych: Vagrant [Kamil Kalisz]*
 
 
 

@@ -4,9 +4,9 @@
 
 ~~27.02.2017~~ - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź, Sklorz]
 
-13.03.2017 - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
+20.03.2017 - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
-13.03.2017 - *Narzędzia do zarządzania projektami i bug trackingu* [Zemczak, Michalski]
+20.03.2017 - *Narzędzia do zarządzania projektami i bug trackingu* [Zemczak, Michalski]
 
 27.03.2017 - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 

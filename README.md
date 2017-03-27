@@ -4,13 +4,13 @@
 
 ~~27.02.2017~~ - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź, Sklorz]
 
-20.03.2017 - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
+~~20.03.2017~~ - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
 
-20.03.2017 - *Narzędzia do zarządzania projektami i bug trackingu* [Zemczak, Michalski]
+~~20.03.2017~~ - *Narzędzia do zarządzania projektami i bug trackingu* [Zemczak, Michalski]
 
-27.03.2017 - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
+~~27.03.2017~~ - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
 
-27.03.2017 - *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [(Sandra Kapturska, Przemysław Prostacki), (Sawczuk, Jedralski)]
+~~27.03.2017~~ - *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [(Sandra Kapturska, Przemysław Prostacki), (Sawczuk, Jedralski)]
 
 10.04.2017 - *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 
@@ -29,7 +29,5 @@
 22.05.2017 - *Usługi typu BaaS (Backend as a Service)*[Michał Polewczak]
 
 22.05.2017 - *Narzędzia do prototypowania* [Dominik Sula]
-
-~~Scrum i jego zastosowanie w praktyce na podstawie Trello [Kamil Zemczak, Rafał Michalski]~~
 
 

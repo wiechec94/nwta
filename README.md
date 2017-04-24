@@ -12,9 +12,9 @@
 
 ~~27.03.2017~~ - *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [(Sandra Kapturska, Przemysław Prostacki), (Sawczuk, Jedralski)]
 
-10.04.2017 - *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
+~~10.04.2017~~ - *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
 
-10.04.2017 - *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
+~~10.04.2017~~ - *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
 
 24.04.2017 - *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [(Mateusz Jędrzejek, Jakub Grzęda), (Banasz)]
 

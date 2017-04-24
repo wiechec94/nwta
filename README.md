@@ -24,7 +24,9 @@
 
 8.05.2017 - *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.* [Dominik Juruś, Konrad Stachoń] 
 
-8.05.2017 - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Krzyżowski, Jasica), (Kamil Kalisz)]
+8.05.2017 - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Kamil Kalisz)]
+
+22.05.2017 - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Krzyżowski, Jasica)]
 
 22.05.2017 - *Usługi typu BaaS (Backend as a Service)*[Michał Polewczak]
 

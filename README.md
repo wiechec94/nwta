@@ -20,9 +20,9 @@
 
 24.04.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal]
 
-8.05.2017 - *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Marcin Moos]
+~~8.05.2017~~ - *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Marcin Moos]
 
-8.05.2017 - *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.* [Dominik Juruś, Konrad Stachoń] 
+~~8.05.2017~~ - *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.* [Dominik Juruś, Konrad Stachoń] 
 
 8.05.2017 - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Kamil Kalisz)]
 

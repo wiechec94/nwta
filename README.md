@@ -1,35 +1,28 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
 
-~~27.02.2017~~ - *Środowiska programistyczne (IDE): przegląd dla różnych języków/technologii* [Kupny, Szczepański]
+*Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 
-~~27.02.2017~~ - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Gwóźdź, Sklorz]
+*Narzędzia do modelowania (głównie UML) i prototypowania*
 
-~~20.03.2017~~ - *Narzędzia do modelowania (głównie UML)* [Kamil Gnela]
+*Narzędzia do zarządzania projektami i bug trackingu*
 
-~~20.03.2017~~ - *Narzędzia do zarządzania projektami i bug trackingu* [Zemczak, Michalski]
+*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 
-~~27.03.2017~~ - *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): Selenium, JMeter* [Małgorzata Skrzypecka, Szymon Kolasa]
+*Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle*
 
-~~27.03.2017~~ - *Narzędzia automatyzujące budowanie oprogramowania, np.: Ant, Maven, Gradle* [(Sandra Kapturska, Przemysław Prostacki), (Sawczuk, Jedralski)]
+*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
-~~10.04.2017~~ - *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*  [Kozik, Sowula]
+*Systemy CI: np. Jenkins*
 
-~~10.04.2017~~ - *Systemy CI: np. Jenkins* [Dominik Jaraczewski, Marek Chrapek]
+*Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
-24.04.2017 - *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby* [(Mateusz Jędrzejek, Jakub Grzęda), (Banasz)]
+*Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*
 
-24.04.2017 - *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*  [Dawid Nosal]
+*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
-~~8.05.2017~~ - *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Marcin Moos]
+*Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 
-~~8.05.2017~~ - *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.* [Dominik Juruś, Konrad Stachoń] 
+*Tworzenie wirtualnych środowisk programistycznych: np. Vagrant, Docker*
 
-8.05.2017 - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Kamil Kalisz)]
-
-~~22.05.2017~~ - *Tworzenie wirtualnych środowisk programistycznych: Vagrant* [(Krzyżowski, Jasica)]
-
-~~22.05.2017~~ - *Usługi typu BaaS (Backend as a Service)*[Michał Polewczak]
-
-22.05.2017 - *Narzędzia do prototypowania* [Dominik Sula]
 
 

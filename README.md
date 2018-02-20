@@ -1,4 +1,4 @@
-# Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie oprogramowania"
+# Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
 
 *Systemy kontroli wersji i bazujące na nich serwisy internetowe*
 

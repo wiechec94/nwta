@@ -1,6 +1,6 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
 
-*Systemy kontroli wersji i bazujące na nich serwisy internetowe*
+*Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Tomasz Pawlik]
 
 *Narzędzia do modelowania (głównie UML) i prototypowania*
 
@@ -12,7 +12,7 @@
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 
-*Systemy CI: np. Jenkins*
+*Systemy CI: np. Jenkins* 
 
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 

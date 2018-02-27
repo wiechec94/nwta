@@ -4,7 +4,7 @@
 
 *Narzędzia do modelowania (głównie UML) i prototypowania*
 
-*Narzędzia do zarządzania projektami i bug trackingu*
+*Narzędzia do zarządzania projektami i bug trackingu* [Mateusz Suchorab]
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 

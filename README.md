@@ -4,7 +4,7 @@
 
 19.03.2018 - *Narzędzia do modelowania (głównie UML) i prototypowania* [Sebastian Białas]
 
-*Narzędzia do zarządzania projektami i bug trackingu* [Mateusz Suchorab]
+16.04.2018 - *Narzędzia do zarządzania projektami i bug trackingu* [Mateusz Suchorab]
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 

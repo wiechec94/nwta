@@ -8,7 +8,7 @@
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 
-*Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [Rafał Kosiński]
+30.04.2018 - *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [Rafał Kosiński]
 
 *Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
 

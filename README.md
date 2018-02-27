@@ -2,7 +2,7 @@
 
 *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Tomasz Pawlik]
 
-*Narzędzia do modelowania (głównie UML) i prototypowania*
+*Narzędzia do modelowania (głównie UML) i prototypowania* [Sebastian Białas]
 
 *Narzędzia do zarządzania projektami i bug trackingu*
 

@@ -1,8 +1,8 @@
 # Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
 
-*Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Tomasz Pawlik]
+5.03.2018 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Tomasz Pawlik]
 
-*Narzędzia do modelowania (głównie UML) i prototypowania* [Sebastian Białas]
+19.03.2018 - *Narzędzia do modelowania (głównie UML) i prototypowania* [Sebastian Białas]
 
 *Narzędzia do zarządzania projektami i bug trackingu*
 

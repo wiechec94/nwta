@@ -18,7 +18,7 @@
 
 *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*
 
-*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
+*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Paweł Wysowski]
 
 *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 

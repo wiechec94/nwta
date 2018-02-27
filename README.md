@@ -6,19 +6,19 @@
 
 16.04.2018 - *Narzędzia do zarządzania projektami i bug trackingu* [Mateusz Suchorab]
 
-*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
-
 16.04.2018 - *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [Rafał Kosiński]
 
-*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*[Natalia Krause]
+*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Paweł Wysowski]
+
+*Pomiar jakości kodu, testy jednostkowe, TDD i BDD* [Natalia Krause]
+
+*Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 
 *Systemy CI: np. Jenkins* 
 
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
 *Generatory dokumentacji: np. javadoc, doxygen. Język Markdown (MD)*
-
-*Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.* [Paweł Wysowski]
 
 *Narzędzia do testowania aplikacji webowych (frontend), np. Mocha, QUnit itp.*
 

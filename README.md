@@ -10,7 +10,7 @@
 
 16.04.2018 - *Narzędzia automatyzujące budowanie oprogramowania, np.: np. Ant, Maven, Gradle* [Rafał Kosiński]
 
-*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*
+*Pomiar jakości kodu, testy jednostkowe, TDD i BDD*[Natalia Krause]
 
 *Systemy CI: np. Jenkins* 
 

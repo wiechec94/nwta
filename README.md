@@ -1,4 +1,4 @@
-# Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
+﻿# Lista tematów z przedmiotu "Narzędzia wspomagające tworzenie aplikacji"
 
 5.03.2018 - *Systemy kontroli wersji i bazujące na nich serwisy internetowe* [Tomasz Pawlik]
 
@@ -14,7 +14,7 @@
 
 *Automatyczne testowanie (funkcjonalne, wydajnościowe itd.): np. Selenium, JMeter*
 
-*Systemy CI: np. Jenkins* 
+*Systemy CI: np. Jenkins* [Krzysztof Wiecheć]
 
 *Hosting dla technologii innych niż PHP, np. Java, ASP.NET, Python, Ruby*
 
